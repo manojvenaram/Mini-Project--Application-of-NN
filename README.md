@@ -1,7 +1,7 @@
 # Mini-Project--Application-of-NN
 
 ## Project Title:
-AGE PREDICTION 
+Age and Gender Prediction 
 ## Project Description 
 To predict the age and gender using the image of the person.
 ## Algorithm:
